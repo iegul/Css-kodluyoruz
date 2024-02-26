@@ -1,0 +1,54 @@
+#box2 {
+  background-color: aqua;
+  width: 100%;
+}
+#box2 p {
+  margin: 0;
+}
+#box3 {
+  background-color: rgb(109, 194, 194);
+  width: 700px;
+}
+
+#box3 p {
+  margin: 0;
+}
+#box4 {
+  background-color: rgb(72, 140, 140);
+  width: 100%;
+}
+#box4 p {
+  margin: 0;
+}
+#text-sz input[type="text"] {
+  width: 300px;
+  font-size: 16px;
+  padding: 0px;
+  margin: 0px;
+}
+#search-sz {
+  background-color: rgb(215, 214, 213);
+}
+#seach-sz2 {
+  padding: 0;
+  margin: 0;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.button-container button {
+  margin-right: 10px;
+}
+#section-id.flex-container {
+  justify-content: center;
+  text-align: center;
+  margin-left: 10px;
+  display: flex;
+  margin: 3px;
+}
+
+#archive {
+  display: inline-block;
+  margin-left: 5px;
+}

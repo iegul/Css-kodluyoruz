@@ -1,0 +1,50 @@
+    * {
+        background-color: #B99A87;
+        text-align: center;
+
+    }
+    a:link {
+        color: #46312c;
+    }
+    a:visited {
+        color: #815a50;
+    
+    }
+    a:hover {
+        color: #C9BEB1;
+    }
+    a:active{
+        color: #46312c;
+    }
+    h1 {
+        color: #46312c;
+    }
+    #index {
+        margin: 30px;
+        font-size: 20px;
+    }
+    #sutlu, #bitter, #karamel, #fistik, #findik {
+        font-size: 25px;
+        color: #503731;
+    }
+    hr{
+        background-color : #46312c;
+        border: none;
+        height: 3px;
+    }
+    ul li{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    footer{
+        margin-top: 20px;
+    }
+    footer dl dd{
+        margin: 0;
+    }
+    footer a{
+        display: block;
+        margin-top: 10px;
+        text-decoration: none;
+
+    }
